@@ -4,7 +4,7 @@
 
 ## Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://seqviz.streamlit.app/)
 
 ![SeqViz demo](https://github.com/ghilesmeddour/st-seqviz/blob/main/res/streamlit-seqviz-demo.gif)
 
