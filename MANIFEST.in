@@ -1,0 +1,2 @@
+recursive-include st_seqviz/frontend/build *
+include pyproject.toml
