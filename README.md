@@ -19,7 +19,7 @@ pip install st-seqviz
 ```python
 import streamlit as st
 
-from st_seqviz import st_seqviz
+from st_seqviz import SeqViz
 
 sv = SeqViz(
     seq="TTGACGGCTAGCTCAGTCCTAGGTACAGTGCTAGC",
