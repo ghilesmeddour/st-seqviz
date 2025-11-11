@@ -24,6 +24,12 @@ devel = [
   "pytest-rerunfailures==12.0",
 ]
 
+[project.urls]
+Repository = "https://github.com/ghilesmeddour/st-seqviz"
+Documentation = "https://github.com/ghilesmeddour/st-seqviz"
+Changelog = "https://github.com/ghilesmeddour/st-seqviz/blob/main/CHANGELOG.md"
+Releases = "https://github.com/ghilesmeddour/st-seqviz/releases"
+
 [tool.setuptools.packages.find]
 include = ["st_seqviz*"]
 

@@ -6,7 +6,7 @@
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#)
 
-![SeqViz demo](./res/streamlit-seqviz-demo.gif)
+![SeqViz demo](https://github.com/ghilesmeddour/st-seqviz/blob/main/res/streamlit-seqviz-demo.gif)
 
 ## Installation
 
@@ -34,7 +34,7 @@ st.json(sv)
 
 ➡️ See the `/demo` folder for more complex examples (annotations, enzymes, translations, highlights, etc.).
 
-## API
+## API Reference
 
 ### Parameters
 
