@@ -1,0 +1,8 @@
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+
+[server]
+showEmailPrompt = false
