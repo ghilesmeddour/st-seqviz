@@ -11,7 +11,7 @@ license = "MIT"
 license-files = ["LICENSE"]
 requires-python = ">=3.10"
 authors = [{ name = "Ghiles Meddour", email = "ghiles.meddour.b@gmail.com" }]
-dependencies = ["streamlit >= 1.51"]
+dependencies = ["streamlit >= 1.52"]
 
 [project.optional-dependencies]
 demo = ["bio>=1.8.1"]
