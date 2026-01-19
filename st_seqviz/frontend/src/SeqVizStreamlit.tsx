@@ -1,4 +1,4 @@
-import { ComponentArgs } from "@streamlit/component-v2-lib";
+import { FrontendRendererArgs } from "@streamlit/component-v2-lib";
 import { FC, ReactElement } from "react";
 import { SeqViz, SeqVizProps } from "seqviz";
 import type { Selection } from "seqviz/dist/selectionContext";
@@ -11,7 +11,7 @@ export type SeqVizStreamlitStateShape = {
 export type SeqVizStreamlitDataShape = SeqVizProps;
 
 export type SeqVizStreamlitProps = Pick<
-  ComponentArgs<SeqVizStreamlitStateShape, SeqVizStreamlitDataShape>,
+  FrontendRendererArgs<SeqVizStreamlitStateShape, SeqVizStreamlitDataShape>,
   "setStateValue"
 > &
   SeqVizStreamlitDataShape;
