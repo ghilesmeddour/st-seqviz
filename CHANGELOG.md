@@ -1,3 +1,7 @@
+## Version 0.1.3 (2026-02-12)
+
+- Bump seqviz to [3.10.16](https://github.com/Lattice-Automation/seqviz/releases/tag/3.10.16)
+
 ## Version 0.1.2 (2026-01-21)
 
 - Bump @streamlit/component-v2-lib to v0.2.0
