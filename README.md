@@ -6,7 +6,7 @@
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://seqviz.streamlit.app/)
 
-![SeqViz demo](https://github.com/ghilesmeddour/st-seqviz/blob/main/res/streamlit-seqviz-demo.gif)
+<img src="https://raw.githubusercontent.com/ghilesmeddour/st-seqviz/refs/heads/main/res/streamlit-seqviz-demo.gif" alt="SeqViz demo"></img>
 
 ## Installation
 
