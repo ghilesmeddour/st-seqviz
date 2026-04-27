@@ -1,3 +1,7 @@
+## Version 0.1.7 (2026-04-27)
+
+- Bump seqviz to [3.10.22](https://github.com/Lattice-Automation/seqviz/releases/tag/3.10.22)
+
 ## Version 0.1.6 (2026-04-14)
 
 - Bump seqviz to [3.10.20](https://github.com/Lattice-Automation/seqviz/releases/tag/3.10.20)
